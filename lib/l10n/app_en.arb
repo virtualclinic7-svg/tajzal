@@ -1,0 +1,973 @@
+{
+  "@@locale": "en",
+  "appTitle": "Taj Azal",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "authWelcome": "Welcome",
+  "@authWelcome": {
+    "description": "Welcome text"
+  },
+  "authWelcomeSubtitle": "to Taj Azal Medical Platform",
+  "@authWelcomeSubtitle": {
+    "description": "Welcome subtitle text"
+  },
+  "authLogin": "Login",
+  "@authLogin": {
+    "description": "Login button"
+  },
+  "authEmail": "Email",
+  "@authEmail": {
+    "description": "Email field"
+  },
+  "authEmailHint": "Enter your email",
+  "@authEmailHint": {
+    "description": "Email field hint"
+  },
+  "authPassword": "Password",
+  "@authPassword": {
+    "description": "Password field"
+  },
+  "authPasswordHint": "Enter your password",
+  "@authPasswordHint": {
+    "description": "Password field hint"
+  },
+  "authNoAccount": "Don't have an account? ",
+  "@authNoAccount": {
+    "description": "Register link text"
+  },
+  "authRegisterNow": "Register Now",
+  "@authRegisterNow": {
+    "description": "Register link"
+  },
+  "authOr": "OR",
+  "@authOr": {
+    "description": "Divider text"
+  },
+  "authCreateAccount": "Create New Account",
+  "@authCreateAccount": {
+    "description": "Register screen title"
+  },
+  "authFillData": "Fill in the following information to create your account",
+  "@authFillData": {
+    "description": "Register screen subtitle"
+  },
+  "authAddProfilePicture": "Add Profile Picture",
+  "@authAddProfilePicture": {
+    "description": "Add profile picture"
+  },
+  "authChangePicture": "Change Picture",
+  "@authChangePicture": {
+    "description": "Change picture"
+  },
+  "authName": "Name",
+  "@authName": {
+    "description": "Name field"
+  },
+  "authNameHint": "Enter your full name",
+  "@authNameHint": {
+    "description": "Name field hint"
+  },
+  "authPhone": "Phone Number",
+  "@authPhone": {
+    "description": "Phone field"
+  },
+  "authPhoneHint": "Enter your phone number",
+  "@authPhoneHint": {
+    "description": "Phone field hint"
+  },
+  "authRegisterSuccess": "Registration successful! Welcome {name}, you can now login",
+  "@authRegisterSuccess": {
+    "description": "Registration success message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "authLogout": "Logout",
+  "authForgotPassword": "Forgot Password",
+  "authEnterEmailReset": "Enter your email to reset your password",
+  "authResetPassword": "Reset Password",
+  "authSendOtp": "Send OTP Code",
+  "authOtpVerification": "OTP Verification",
+  "authChangePassword": "Change Password",
+  "authOtpSubtitle": "Enter the verification code sent to your email",
+  "@authOtpSubtitle": {
+    "description": "OTP screen subtitle"
+  },
+  "authOtpCode": "Verification Code",
+  "@authOtpCode": {
+    "description": "OTP code field label"
+  },
+  "authOtpCodeHint": "Enter the 6-digit code",
+  "@authOtpCodeHint": {
+    "description": "OTP code field hint"
+  },
+  "authNewPassword": "New Password",
+  "@authNewPassword": {
+    "description": "New password field label"
+  },
+  "authNewPasswordHint": "Enter the new password",
+  "@authNewPasswordHint": {
+    "description": "New password field hint"
+  },
+  "authConfirmPassword": "Confirm Password",
+  "@authConfirmPassword": {
+    "description": "Confirm password field label"
+  },
+  "authConfirmPasswordHint": "Re-enter the new password",
+  "@authConfirmPasswordHint": {
+    "description": "Confirm password field hint"
+  },
+  "authResendCode": "Didn't receive the code? Resend",
+  "@authResendCode": {
+    "description": "Resend OTP link text"
+  },
+  "authRememberPassword": "Remembered your password?",
+  "@authRememberPassword": {
+    "description": "Prompt shown with back-to-login link"
+  },
+  "authPasswordChangedSuccess": "Password changed successfully",
+  "@authPasswordChangedSuccess": {
+    "description": "Snackbar text after successful password change"
+  },
+  "authOtpResent": "A new verification code has been sent to your email",
+  "@authOtpResent": {
+    "description": "Snackbar text after resending OTP"
+  },
+  "@authLogout": {
+    "description": "Logout button"
+  },
+  "navHome": "Home",
+  "@navHome": {
+    "description": "Home menu"
+  },
+  "navDepartments": "Departments",
+  "@navDepartments": {
+    "description": "Departments menu"
+  },
+  "navAppointments": "Appointments",
+  "@navAppointments": {
+    "description": "Appointments menu"
+  },
+  "navProfile": "Profile",
+  "@navProfile": {
+    "description": "Profile menu"
+  },
+  "homeGreeting": "Hello",
+  "@homeGreeting": {
+    "description": "User greeting"
+  },
+  "homeGuest": "Guest",
+  "@homeGuest": {
+    "description": "Guest name"
+  },
+  "homeSearchHint": "Search for a clinic or health issue...",
+  "@homeSearchHint": {
+    "description": "Search text"
+  },
+  "homeMyAppointments": "My Appointments",
+  "@homeMyAppointments": {
+    "description": "Appointments section title"
+  },
+  "homeMedicalDepartments": "Medical Departments",
+  "@homeMedicalDepartments": {
+    "description": "Departments section title"
+  },
+  "homeSeeAll": "See All",
+  "@homeSeeAll": {
+    "description": "See all link"
+  },
+  "homeNoUpcomingAppointments": "No upcoming appointments",
+  "@homeNoUpcomingAppointments": {
+    "description": "No appointments message"
+  },
+  "homeNoDepartments": "No departments available",
+  "@homeNoDepartments": {
+    "description": "No departments message"
+  },
+  "apptUpcoming": "Upcoming",
+  "@apptUpcoming": {
+    "description": "Upcoming appointments tab"
+  },
+  "apptPast": "Past",
+  "@apptPast": {
+    "description": "Past appointments tab"
+  },
+  "apptCancelled": "Cancelled",
+  "@apptCancelled": {
+    "description": "Cancelled appointments tab"
+  },
+  "apptStatusConfirmed": "Confirmed",
+  "@apptStatusConfirmed": {
+    "description": "Appointment status - Confirmed"
+  },
+  "apptStatusPendingConfirm": "Pending Confirmation",
+  "@apptStatusPendingConfirm": {
+    "description": "Appointment status - Pending Confirmation"
+  },
+  "apptStatusCompleted": "Completed",
+  "@apptStatusCompleted": {
+    "description": "Appointment status - Completed"
+  },
+  "apptStatusCancelled": "Cancelled",
+  "@apptStatusCancelled": {
+    "description": "Appointment status - Cancelled"
+  },
+  "apptStatusPending": "Pending",
+  "@apptStatusPending": {
+    "description": "Appointment status - Pending"
+  },
+  "apptEnterSession": "Enter Session",
+  "@apptEnterSession": {
+    "description": "Enter session button"
+  },
+  "apptMessageDoctor": "Message Doctor",
+  "@apptMessageDoctor": {
+    "description": "Message doctor button"
+  },
+  "apptAppointmentDetails": "Appointment Details",
+  "@apptAppointmentDetails": {
+    "description": "Appointment details button"
+  },
+  "apptViewDetails": "View Details",
+  "@apptViewDetails": {
+    "description": "View details button"
+  },
+  "apptBookAppointment": "Book New Appointment",
+  "@apptBookAppointment": {
+    "description": "Book appointment screen title"
+  },
+  "apptCancelAppointment": "Cancel Appointment",
+  "@apptCancelAppointment": {
+    "description": "Cancel dialog title"
+  },
+  "apptCancelConfirm": "Are you sure you want to cancel this appointment?",
+  "@apptCancelConfirm": {
+    "description": "Cancel confirmation message"
+  },
+  "apptCancelReason": "Cancellation Reason (Optional)",
+  "@apptCancelReason": {
+    "description": "Cancel reason field"
+  },
+  "apptCancelReasonHint": "Example: Change of plans",
+  "@apptCancelReasonHint": {
+    "description": "Cancel reason hint"
+  },
+  "apptBack": "Back",
+  "@apptBack": {
+    "description": "Back button"
+  },
+  "apptConfirmCancel": "Confirm Cancellation",
+  "@apptConfirmCancel": {
+    "description": "Confirm cancel button"
+  },
+  "apptCannotCancel": "Cannot cancel appointment less than 24 hours before",
+  "@apptCannotCancel": {
+    "description": "Cannot cancel message"
+  },
+  "apptNoAppointments": "No appointments",
+  "@apptNoAppointments": {
+    "description": "No appointments message"
+  },
+  "apptNoUpcoming": "No upcoming appointments",
+  "@apptNoUpcoming": {
+    "description": "No upcoming appointments message"
+  },
+  "apptNoPast": "No past appointments",
+  "@apptNoPast": {
+    "description": "No past appointments message"
+  },
+  "apptNoCancelled": "No cancelled appointments",
+  "@apptNoCancelled": {
+    "description": "No cancelled appointments message"
+  },
+  "apptUnauthorized": "Unauthorized - Please login",
+  "@apptUnauthorized": {
+    "description": "Unauthorized message"
+  },
+  "deptDepartments": "Departments",
+  "@deptDepartments": {
+    "description": "Departments screen title"
+  },
+  "deptNoDepartments": "No departments available",
+  "@deptNoDepartments": {
+    "description": "No departments message"
+  },
+  "deptDoctors": "Doctors",
+  "@deptDoctors": {
+    "description": "Doctors section title"
+  },
+  "deptServices": "Services",
+  "@deptServices": {
+    "description": "Services section title"
+  },
+  "deptWorkingHours": "Working Hours",
+  "@deptWorkingHours": {
+    "description": "Working hours title"
+  },
+  "deptSearchHint": "Search for a medical specialty...",
+  "@deptSearchHint": {
+    "description": "Search hint in departments"
+  },
+  "deptResultsCount": "{count} results",
+  "@deptResultsCount": {
+    "description": "Search results count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "deptLoading": "Loading departments...",
+  "@deptLoading": {
+    "description": "Loading departments message"
+  },
+  "deptLoadError": "Error loading departments",
+  "@deptLoadError": {
+    "description": "Error loading departments message"
+  },
+  "deptTryAgain": "Please try again",
+  "@deptTryAgain": {
+    "description": "Try again text"
+  },
+  "deptNoResults": "No search results",
+  "@deptNoResults": {
+    "description": "No search results"
+  },
+  "deptTryOtherWords": "Try searching with other words",
+  "@deptTryOtherWords": {
+    "description": "Try searching with other words"
+  },
+  "deptLocationNotAvailable": "Location not available",
+  "@deptLocationNotAvailable": {
+    "description": "Location not available"
+  },
+  "deptWillBeAddedSoon": "Departments will be added soon",
+  "@deptWillBeAddedSoon": {
+    "description": "Departments will be added soon"
+  },
+  "deptNoServices": "No services available at the moment",
+  "@deptNoServices": {
+    "description": "No services message"
+  },
+  "docDoctors": "Doctors",
+  "@docDoctors": {
+    "description": "Doctors screen title"
+  },
+  "docNoDoctors": "No doctors available",
+  "@docNoDoctors": {
+    "description": "No doctors message"
+  },
+  "docSpecialization": "Specialization",
+  "@docSpecialization": {
+    "description": "Specialization"
+  },
+  "docExperience": "Years of Experience",
+  "@docExperience": {
+    "description": "Years of experience"
+  },
+  "docRating": "Rating",
+  "@docRating": {
+    "description": "Rating"
+  },
+  "docBook": "Book Appointment",
+  "@docBook": {
+    "description": "Book button"
+  },
+  "docYearsExperience": "{years} years of experience",
+  "@docYearsExperience": {
+    "description": "Doctor years of experience",
+    "placeholders": {
+      "years": {
+        "type": "int"
+      }
+    }
+  },
+  "docSpecialist": "Specialist Doctor",
+  "@docSpecialist": {
+    "description": "Default doctor text"
+  },
+  "docSearchHint": "Search for a doctor...",
+  "@docSearchHint": {
+    "description": "Search hint in doctors"
+  },
+  "docLoading": "Loading doctors...",
+  "@docLoading": {
+    "description": "Loading doctors message"
+  },
+  "docLoadError": "Error loading doctors",
+  "@docLoadError": {
+    "description": "Error loading doctors message"
+  },
+  "docTryOtherWords": "Try searching with other words or clear search",
+  "@docTryOtherWords": {
+    "description": "Try other words message"
+  },
+  "docWillBeAddedSoon": "Doctors will be added soon",
+  "@docWillBeAddedSoon": {
+    "description": "Doctors will be added soon"
+  },
+  "docClearSearch": "Clear Search",
+  "@docClearSearch": {
+    "description": "Clear search button"
+  },
+  "docResultsCount": "{count} results",
+  "@docResultsCount": {
+    "description": "Search results count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "profProfile": "Profile",
+  "@profProfile": {
+    "description": "Profile title"
+  },
+  "profEditProfile": "Edit Profile",
+  "@profEditProfile": {
+    "description": "Edit profile"
+  },
+  "profMedicalRecords": "Medical Records",
+  "@profMedicalRecords": {
+    "description": "Medical records"
+  },
+  "profPayments": "Payments",
+  "@profPayments": {
+    "description": "Payments"
+  },
+  "profSettings": "Settings",
+  "@profSettings": {
+    "description": "Settings"
+  },
+  "profHelpSupport": "Help & Support",
+  "@profHelpSupport": {
+    "description": "Help & Support"
+  },
+  "profLanguage": "Language",
+  "@profLanguage": {
+    "description": "Language"
+  },
+  "profArabic": "العربية",
+  "@profArabic": {
+    "description": "Arabic"
+  },
+  "profEnglish": "English",
+  "@profEnglish": {
+    "description": "English"
+  },
+  "profComingSoon": "This feature will be available soon",
+  "@profComingSoon": {
+    "description": "Coming soon message"
+  },
+  "profPersonalSettings": "Personal Settings",
+  "@profPersonalSettings": {
+    "description": "Personal settings section title"
+  },
+  "profGeneralSettings": "General Settings",
+  "@profGeneralSettings": {
+    "description": "General settings section title"
+  },
+  "profAccount": "Account",
+  "@profAccount": {
+    "description": "Account section title"
+  },
+  "profDataUpdated": "Data updated successfully",
+  "@profDataUpdated": {
+    "description": "Data update success message"
+  },
+  "profSessionExpired": "Session expired. Please log in again",
+  "@profSessionExpired": {
+    "description": "Session expired message"
+  },
+  "profUnauthorized": "Unauthorized - Please log in",
+  "@profUnauthorized": {
+    "description": "Unauthorized message"
+  },
+  "profConnectionError": "Cannot connect to server. Check your internet connection",
+  "@profConnectionError": {
+    "description": "Connection error message"
+  },
+  "profNoUserData": "No user data available",
+  "@profNoUserData": {
+    "description": "No user data message"
+  },
+  "profPatient": "Patient",
+  "@profPatient": {
+    "description": "Patient role"
+  },
+  "profAppointments": "Appointments",
+  "@profAppointments": {
+    "description": "Appointments in statistics"
+  },
+  "profSessions": "Sessions",
+  "@profSessions": {
+    "description": "Sessions in statistics"
+  },
+  "profLogoutConfirm": "Are you sure you want to log out?",
+  "@profLogoutConfirm": {
+    "description": "Logout confirmation message"
+  },
+  "profImagePickFailed": "Failed to pick image",
+  "@profImagePickFailed": {
+    "description": "Image pick failure message"
+  },
+  "profProfileUpdated": "Profile updated successfully",
+  "@profProfileUpdated": {
+    "description": "Profile update success message"
+  },
+  "profUpdateFailed": "Failed to update data",
+  "@profUpdateFailed": {
+    "description": "Data update failure message"
+  },
+  "profPhoneAlreadyUsed": "Phone number is already in use",
+  "@profPhoneAlreadyUsed": {
+    "description": "Phone number already used error"
+  },
+  "profEnterName": "Please enter your name",
+  "@profEnterName": {
+    "description": "Name entry error message"
+  },
+  "profEnterPhone": "Please enter your phone number",
+  "@profEnterPhone": {
+    "description": "Phone entry error message"
+  },
+  "profSaveChanges": "Save Changes",
+  "@profSaveChanges": {
+    "description": "Save changes button"
+  },
+  "drDashboard": "Dashboard",
+  "@drDashboard": {
+    "description": "Doctor dashboard"
+  },
+  "drAppointments": "Appointments",
+  "@drAppointments": {
+    "description": "Doctor appointments"
+  },
+  "drSchedule": "Schedule",
+  "@drSchedule": {
+    "description": "Doctor schedule"
+  },
+  "drServices": "Services",
+  "@drServices": {
+    "description": "Doctor services"
+  },
+  "drReject": "Reject",
+  "@drReject": {
+    "description": "Reject appointment"
+  },
+  "drAccept": "Accept",
+  "@drAccept": {
+    "description": "Accept appointment"
+  },
+  "drRejectReason": "Rejection Reason",
+  "@drRejectReason": {
+    "description": "Rejection reason"
+  },
+  "drEnterReason": "Enter reason",
+  "@drEnterReason": {
+    "description": "Rejection reason hint"
+  },
+  "drCancel": "Cancel",
+  "@drCancel": {
+    "description": "Cancel"
+  },
+  "drSave": "Save",
+  "@drSave": {
+    "description": "Save"
+  },
+  "drCreateRecord": "Create Medical Record",
+  "@drCreateRecord": {
+    "description": "Create medical record"
+  },
+  "commonLoading": "Loading...",
+  "@commonLoading": {
+    "description": "Loading message"
+  },
+  "commonError": "An error occurred",
+  "@commonError": {
+    "description": "Generic error message"
+  },
+  "commonRetry": "Retry",
+  "@commonRetry": {
+    "description": "Retry button"
+  },
+  "commonOk": "OK",
+  "@commonOk": {
+    "description": "OK button"
+  },
+  "commonYes": "Yes",
+  "@commonYes": {
+    "description": "Yes"
+  },
+  "commonNo": "No",
+  "@commonNo": {
+    "description": "No"
+  },
+  "apptDetailsTitle": "Appointment Details",
+  "@apptDetailsTitle": {
+    "description": "Appointment details screen title"
+  },
+  "apptDetailsStatus": "Status",
+  "@apptDetailsStatus": {
+    "description": "Appointment status"
+  },
+  "apptDetailsDoctor": "Doctor",
+  "@apptDetailsDoctor": {
+    "description": "Doctor"
+  },
+  "apptDetailsService": "Service",
+  "@apptDetailsService": {
+    "description": "Service"
+  },
+  "apptDetailsDateTime": "Date & Time",
+  "@apptDetailsDateTime": {
+    "description": "Date and time"
+  },
+  "apptDetailsDuration": "Duration",
+  "@apptDetailsDuration": {
+    "description": "Duration"
+  },
+  "apptDetailsType": "Type",
+  "@apptDetailsType": {
+    "description": "Type"
+  },
+  "apptDetailsPrice": "Price",
+  "@apptDetailsPrice": {
+    "description": "Price"
+  },
+  "apptDetailsPayment": "Payment",
+  "@apptDetailsPayment": {
+    "description": "Payment"
+  },
+  "apptTypeInPerson": "In Person",
+  "@apptTypeInPerson": {
+    "description": "Appointment type - In Person"
+  },
+  "apptTypeVideo": "Video Call",
+  "@apptTypeVideo": {
+    "description": "Appointment type - Video Call"
+  },
+  "apptTypeChat": "Text Chat",
+  "@apptTypeChat": {
+    "description": "Appointment type - Text Chat"
+  },
+  "apptStatusNoShow": "No Show",
+  "@apptStatusNoShow": {
+    "description": "Appointment status - No Show"
+  },
+  "apptStatusRejected": "Rejected",
+  "@apptStatusRejected": {
+    "description": "Appointment status - Rejected"
+  },
+  "apptTimeRemaining": "Remaining",
+  "@apptTimeRemaining": {
+    "description": "Time remaining"
+  },
+  "apptTimeOngoing": "Ongoing",
+  "@apptTimeOngoing": {
+    "description": "Time ongoing"
+  },
+  "apptTimeFinished": "Finished",
+  "@apptTimeFinished": {
+    "description": "Time finished"
+  },
+  "apptMorning": "AM",
+  "@apptMorning": {
+    "description": "Morning"
+  },
+  "apptEvening": "PM",
+  "@apptEvening": {
+    "description": "Evening"
+  },
+  "apptUnauthorizedDoctor": "Unauthorized - You must be a doctor",
+  "@apptUnauthorizedDoctor": {
+    "description": "Unauthorized for doctor"
+  },
+  "apptOnlyCompleted": "Medical records can only be created for completed appointments",
+  "@apptOnlyCompleted": {
+    "description": "Records can only be created for completed appointments"
+  },
+  "apptRecordCreated": "Medical record created successfully",
+  "@apptRecordCreated": {
+    "description": "Medical record created"
+  },
+  "apptSelectDoctorFirst": "Please select a doctor first",
+  "@apptSelectDoctorFirst": {
+    "description": "Select doctor first message"
+  },
+  "apptSelectServiceFirst": "Please select a service first",
+  "@apptSelectServiceFirst": {
+    "description": "Select service first message"
+  },
+  "apptSelectDateAndSlot": "Please select a date and available time slot",
+  "@apptSelectDateAndSlot": {
+    "description": "Select date and time message"
+  },
+  "apptSelectFutureTime": "Please select a time in the future",
+  "@apptSelectFutureTime": {
+    "description": "Select future time message"
+  },
+  "apptBookSuccess": "Appointment booked successfully",
+  "@apptBookSuccess": {
+    "description": "Booking success message"
+  },
+  "apptBookConfirmSuccess": "Appointment booked and confirmed successfully ✓",
+  "@apptBookConfirmSuccess": {
+    "description": "Booking and confirmation success message"
+  },
+  "apptBookPendingConfirm": "Appointment booked successfully. It will be confirmed by the doctor.",
+  "@apptBookPendingConfirm": {
+    "description": "Booking pending confirmation message"
+  },
+  "apptTypeTitle": "Appointment Type",
+  "@apptTypeTitle": {
+    "description": "Appointment type title"
+  },
+  "apptDateTitle": "Date",
+  "@apptDateTitle": {
+    "description": "Date title"
+  },
+  "apptSelectDate": "Select Date",
+  "@apptSelectDate": {
+    "description": "Select date text"
+  },
+  "apptSelectDateHelp": "Select appointment date",
+  "@apptSelectDateHelp": {
+    "description": "Select date help text"
+  },
+  "apptSelectTimeTitle": "Select a time from available slots",
+  "@apptSelectTimeTitle": {
+    "description": "Select time title"
+  },
+  "apptNoSlotsAvailable": "No slots available on this day. Please select another date.",
+  "@apptNoSlotsAvailable": {
+    "description": "No slots available message"
+  },
+  "apptSelectDoctorWarning": "Please select a doctor first before booking",
+  "@apptSelectDoctorWarning": {
+    "description": "Select doctor warning"
+  },
+  "apptSelectDoctor": "Select Doctor",
+  "@apptSelectDoctor": {
+    "description": "Select doctor button"
+  },
+  "apptDoctor": "Doctor",
+  "@apptDoctor": {
+    "description": "Doctor text"
+  },
+  "apptDoctorNotSelected": "Doctor not selected",
+  "@apptDoctorNotSelected": {
+    "description": "Doctor not selected text"
+  },
+  "apptChangeDoctor": "Change Doctor",
+  "@apptChangeDoctor": {
+    "description": "Change doctor button"
+  },
+  "apptServiceSpecialty": "Service / Specialty",
+  "@apptServiceSpecialty": {
+    "description": "Service/Specialty text"
+  },
+  "apptBooking": "Booking...",
+  "@apptBooking": {
+    "description": "Booking message"
+  },
+  "apptBookingConfirming": "Booking and confirming...",
+  "@apptBookingConfirming": {
+    "description": "Booking and confirming message"
+  },
+  "apptSelectAvailableTime": "Select an available time",
+  "@apptSelectAvailableTime": {
+    "description": "Select available time message"
+  },
+  "apptBookAppointment": "Book Appointment",
+  "@apptBookAppointment": {
+    "description": "Book appointment button"
+  },
+  "apptBookConfirmedTest": "Book Confirmed (Test) ✓",
+  "@apptBookConfirmedTest": {
+    "description": "Book confirmed test button"
+  },
+  "apptTestModeDoctor": "Test Mode: Instant confirmed booking (as doctor)",
+  "@apptTestModeDoctor": {
+    "description": "Test mode doctor message"
+  },
+  "apptTestModePatient": "Test Mode: Booking will need doctor confirmation",
+  "@apptTestModePatient": {
+    "description": "Test mode patient message"
+  },
+  "apptMinimumMinutes": "Please select a time at least {minutes} minutes from now",
+  "@apptMinimumMinutes": {
+    "description": "Minimum minutes message",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "apptError": "Error: {error}",
+  "@apptError": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "apptBookSuccessDoctorLogin": "⚠️ Booking successful. Please login as doctor to confirm automatically, or it will be confirmed manually by the doctor.",
+  "@apptBookSuccessDoctorLogin": {
+    "description": "Booking success with doctor login request"
+  },
+  "apptBookSuccessConfirmFailed": "Booking successful, but automatic confirmation failed: {error}",
+  "@apptBookSuccessConfirmFailed": {
+    "description": "Booking success with confirmation failure",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "supportTitle": "Help & Support",
+  "supportNewTicket": "New Ticket",
+  "supportNoTickets": "No support tickets currently",
+  "supportCreateTitle": "Create New Ticket",
+  "supportCategory": "Category",
+  "supportSubject": "Subject",
+  "supportDescription": "Description",
+  "supportSubjectRequired": "Please enter the subject",
+  "supportDescriptionRequired": "Please enter the description",
+  "supportSend": "Send Ticket",
+  "supportCreateSuccess": "Ticket created successfully",
+  "supportDetails": "Ticket Details",
+  "supportOriginalTicket": "Original Ticket",
+  "supportReplyHint": "Write your reply here...",
+  "supportStatusOpen": "Open",
+  "supportStatusInProgress": "In Progress",
+  "supportStatusResolved": "Resolved",
+  "supportStatusClosed": "Closed",
+  "supportCatTechnical": "Technical Issue",
+  "supportCatBilling": "Billing Issue",
+  "supportCatMedical": "Medical Inquiry",
+  "supportCatOther": "Other",
+  "apptPaymentRequired": "Please complete payment to confirm booking",
+  "@apptPaymentRequired": {
+    "description": "Payment required alert message"
+  },
+  "paymentTitle": "Payment",
+  "@paymentTitle": {
+    "description": "Payment screen title"
+  },
+  "paymentRequired": "Payment required to confirm booking",
+  "@paymentRequired": {
+    "description": "Payment required message"
+  },
+  "paymentCompleteToConfirm": "Complete payment to confirm your booking",
+  "@paymentCompleteToConfirm": {
+    "description": "Complete payment message"
+  },
+  "paymentDetails": "Payment Details",
+  "@paymentDetails": {
+    "description": "Payment details title"
+  },
+  "paymentAmount": "Amount",
+  "@paymentAmount": {
+    "description": "Amount"
+  },
+  "paymentStatus": "Payment Status",
+  "@paymentStatus": {
+    "description": "Payment status"
+  },
+  "paymentStatusPending": "Pending Payment",
+  "@paymentStatusPending": {
+    "description": "Payment status - Pending"
+  },
+  "paymentStatusCompleted": "Payment Completed",
+  "@paymentStatusCompleted": {
+    "description": "Payment status - Completed"
+  },
+  "paymentStatusFailed": "Payment Failed",
+  "@paymentStatusFailed": {
+    "description": "Payment status - Failed"
+  },
+  "paymentPayNow": "Pay Now",
+  "@paymentPayNow": {
+    "description": "Pay now button"
+  },
+  "paymentProcessing": "Processing payment...",
+  "@paymentProcessing": {
+    "description": "Processing message"
+  },
+  "paymentSuccess": "Payment successful! Your booking is confirmed",
+  "@paymentSuccess": {
+    "description": "Payment success message"
+  },
+  "paymentCancelled": "Payment was cancelled",
+  "@paymentCancelled": {
+    "description": "Payment cancelled message"
+  },
+  "paymentError": "Payment failed. Please try again",
+  "@paymentError": {
+    "description": "Payment error message"
+  },
+  "paymentReservationExpiry": "Note: Reservation will expire if payment is not completed within 15 minutes",
+  "@paymentReservationExpiry": {
+    "description": "Reservation expiry warning"
+  },
+  "notificationsTitle": "Notifications",
+  "@notificationsTitle": {
+    "description": "Notifications page title"
+  },
+  "notificationsEmpty": "No Notifications",
+  "@notificationsEmpty": {
+    "description": "Message when there are no notifications"
+  },
+  "notificationsEmptyDescription": "Your notifications will appear here",
+  "@notificationsEmptyDescription": {
+    "description": "Description for no notifications message"
+  },
+  "notificationsMarkAllRead": "Mark All as Read",
+  "@notificationsMarkAllRead": {
+    "description": "Button to mark all notifications as read"
+  },
+  "notificationsClearAll": "Clear All",
+  "@notificationsClearAll": {
+    "description": "Button to clear all notifications"
+  },
+  "notificationsDelete": "Delete",
+  "@notificationsDelete": {
+    "description": "Button to delete a notification"
+  },
+  "notificationsJustNow": "Just now",
+  "@notificationsJustNow": {
+    "description": "Notification time - just now"
+  },
+  "notificationsMinutesAgo": "{count} minutes ago",
+  "@notificationsMinutesAgo": {
+    "description": "Notification time - minutes ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationsHoursAgo": "{count} hours ago",
+  "@notificationsHoursAgo": {
+    "description": "Notification time - hours ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationsDaysAgo": "{count} days ago",
+  "@notificationsDaysAgo": {
+    "description": "Notification time - days ago",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

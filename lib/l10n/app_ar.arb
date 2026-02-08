@@ -1,0 +1,973 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تاج ازال",
+  "@appTitle": {
+    "description": "عنوان التطبيق"
+  },
+  "authWelcome": "مرحباً بك",
+  "@authWelcome": {
+    "description": "نص الترحيب"
+  },
+  "authWelcomeSubtitle": "في منصة تاج ازال الطبية",
+  "@authWelcomeSubtitle": {
+    "description": "نص الترحيب الفرعي"
+  },
+  "authLogin": "تسجيل الدخول",
+  "@authLogin": {
+    "description": "زر تسجيل الدخول"
+  },
+  "authEmail": "البريد الإلكتروني",
+  "@authEmail": {
+    "description": "حقل البريد الإلكتروني"
+  },
+  "authEmailHint": "أدخل بريدك الإلكتروني",
+  "@authEmailHint": {
+    "description": "نص توضيحي لحقل البريد الإلكتروني"
+  },
+  "authPassword": "كلمة المرور",
+  "@authPassword": {
+    "description": "حقل كلمة المرور"
+  },
+  "authPasswordHint": "أدخل كلمة المرور",
+  "@authPasswordHint": {
+    "description": "نص توضيحي لحقل كلمة المرور"
+  },
+  "authNoAccount": "ليس لديك حساب؟ ",
+  "@authNoAccount": {
+    "description": "نص رابط التسجيل"
+  },
+  "authRegisterNow": "سجل الآن",
+  "@authRegisterNow": {
+    "description": "رابط التسجيل"
+  },
+  "authOr": "أو",
+  "@authOr": {
+    "description": "نص الفاصل"
+  },
+  "authCreateAccount": "إنشاء حساب جديد",
+  "@authCreateAccount": {
+    "description": "عنوان شاشة التسجيل"
+  },
+  "authFillData": "املأ البيانات التالية لإنشاء حسابك",
+  "@authFillData": {
+    "description": "نص توضيحي في شاشة التسجيل"
+  },
+  "authAddProfilePicture": "إضافة صورة شخصية",
+  "@authAddProfilePicture": {
+    "description": "إضافة صورة شخصية"
+  },
+  "authChangePicture": "تغيير الصورة",
+  "@authChangePicture": {
+    "description": "تغيير الصورة"
+  },
+  "authName": "الاسم",
+  "@authName": {
+    "description": "حقل الاسم"
+  },
+  "authNameHint": "أدخل اسمك الكامل",
+  "@authNameHint": {
+    "description": "نص توضيحي لحقل الاسم"
+  },
+  "authPhone": "رقم الهاتف",
+  "@authPhone": {
+    "description": "حقل رقم الهاتف"
+  },
+  "authPhoneHint": "أدخل رقم هاتفك",
+  "@authPhoneHint": {
+    "description": "نص توضيحي لحقل الهاتف"
+  },
+  "authRegisterSuccess": "تم التسجيل بنجاح! مرحباً {name}، يمكنك تسجيل الدخول الآن",
+  "@authRegisterSuccess": {
+    "description": "رسالة نجاح التسجيل",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "authLogout": "تسجيل الخروج",
+  "authForgotPassword": "نسيت كلمة السر",
+  "authEnterEmailReset": "أدخل بريدك الإلكتروني لإعادة تعيين كلمة السر",
+  "authResetPassword": "إعادة تعيين كلمة السر",
+  "authSendOtp": "إرسال رمز التحقق",
+  "authOtpVerification": "رمز التحقق",
+  "authChangePassword": "تغيير كلمة السر",
+  "authOtpSubtitle": "أدخل رمز التحقق المرسل إلى بريدك الإلكتروني",
+  "@authOtpSubtitle": {
+    "description": "نص إرشادي في شاشة رمز التحقق"
+  },
+  "authOtpCode": "رمز التحقق",
+  "@authOtpCode": {
+    "description": "تسمية حقل رمز التحقق"
+  },
+  "authOtpCodeHint": "أدخل رمز الـ 6 أرقام",
+  "@authOtpCodeHint": {
+    "description": "نص مساعد لحقل رمز التحقق"
+  },
+  "authNewPassword": "كلمة السر الجديدة",
+  "@authNewPassword": {
+    "description": "تسمية حقل كلمة السر الجديدة"
+  },
+  "authNewPasswordHint": "أدخل كلمة السر الجديدة",
+  "@authNewPasswordHint": {
+    "description": "نص مساعد لحقل كلمة السر الجديدة"
+  },
+  "authConfirmPassword": "تأكيد كلمة السر",
+  "@authConfirmPassword": {
+    "description": "تسمية حقل تأكيد كلمة السر"
+  },
+  "authConfirmPasswordHint": "أعد إدخال كلمة السر الجديدة",
+  "@authConfirmPasswordHint": {
+    "description": "نص مساعد لحقل تأكيد كلمة السر"
+  },
+  "authResendCode": "لم يصلك رمز التحقق؟ إعادة الإرسال",
+  "@authResendCode": {
+    "description": "نص رابط إعادة إرسال رمز التحقق"
+  },
+  "authRememberPassword": "تذكرت كلمة السر؟",
+  "@authRememberPassword": {
+    "description": "النص الذي يسبق رابط تسجيل الدخول"
+  },
+  "authPasswordChangedSuccess": "تم تغيير كلمة السر بنجاح",
+  "@authPasswordChangedSuccess": {
+    "description": "نص الإشعار بعد تغيير كلمة السر بنجاح"
+  },
+  "authOtpResent": "تم إرسال رمز تحقق جديد إلى بريدك الإلكتروني",
+  "@authOtpResent": {
+    "description": "نص الإشعار بعد إعادة إرسال رمز التحقق"
+  },
+  "@authLogout": {
+    "description": "زر تسجيل الخروج"
+  },
+  "navHome": "الرئيسية",
+  "@navHome": {
+    "description": "قائمة الرئيسية"
+  },
+  "navDepartments": "التخصصات",
+  "@navDepartments": {
+    "description": "قائمة التخصصات"
+  },
+  "navAppointments": "المواعيد",
+  "@navAppointments": {
+    "description": "قائمة المواعيد"
+  },
+  "navProfile": "الملف الشخصي",
+  "@navProfile": {
+    "description": "قائمة الملف الشخصي"
+  },
+  "homeGreeting": "مرحباً",
+  "@homeGreeting": {
+    "description": "تحية المستخدم"
+  },
+  "homeGuest": "زائر",
+  "@homeGuest": {
+    "description": "اسم الضيف"
+  },
+  "homeSearchHint": "ابحث عن عيادة أو مشكلة صحية...",
+  "@homeSearchHint": {
+    "description": "نص البحث"
+  },
+  "homeMyAppointments": "مواعيدي",
+  "@homeMyAppointments": {
+    "description": "عنوان قسم المواعيد"
+  },
+  "homeMedicalDepartments": "التخصصات الطبية",
+  "@homeMedicalDepartments": {
+    "description": "عنوان قسم التخصصات"
+  },
+  "homeSeeAll": "عرض الكل",
+  "@homeSeeAll": {
+    "description": "رابط عرض الكل"
+  },
+  "homeNoUpcomingAppointments": "لا توجد مواعيد قادمة",
+  "@homeNoUpcomingAppointments": {
+    "description": "رسالة عدم وجود مواعيد"
+  },
+  "homeNoDepartments": "لا توجد تخصصات متاحة",
+  "@homeNoDepartments": {
+    "description": "رسالة عدم وجود تخصصات"
+  },
+  "apptUpcoming": "القادمة",
+  "@apptUpcoming": {
+    "description": "تبويب المواعيد القادمة"
+  },
+  "apptPast": "السابقة",
+  "@apptPast": {
+    "description": "تبويب المواعيد السابقة"
+  },
+  "apptCancelled": "الملغاة",
+  "@apptCancelled": {
+    "description": "تبويب المواعيد الملغاة"
+  },
+  "apptStatusConfirmed": "مؤكد",
+  "@apptStatusConfirmed": {
+    "description": "حالة الموعد - مؤكد"
+  },
+  "apptStatusPendingConfirm": "في انتظار التأكيد",
+  "@apptStatusPendingConfirm": {
+    "description": "حالة الموعد - في انتظار التأكيد"
+  },
+  "apptStatusCompleted": "مكتمل",
+  "@apptStatusCompleted": {
+    "description": "حالة الموعد - مكتمل"
+  },
+  "apptStatusCancelled": "ملغي",
+  "@apptStatusCancelled": {
+    "description": "حالة الموعد - ملغي"
+  },
+  "apptStatusPending": "قيد الانتظار",
+  "@apptStatusPending": {
+    "description": "حالة الموعد - قيد الانتظار"
+  },
+  "apptEnterSession": "دخول للجلسة",
+  "@apptEnterSession": {
+    "description": "زر دخول الجلسة"
+  },
+  "apptMessageDoctor": "مراسلة الطبيب",
+  "@apptMessageDoctor": {
+    "description": "زر مراسلة الطبيب"
+  },
+  "apptAppointmentDetails": "تفاصيل الحجز",
+  "@apptAppointmentDetails": {
+    "description": "زر تفاصيل الحجز"
+  },
+  "apptViewDetails": "عرض التفاصيل",
+  "@apptViewDetails": {
+    "description": "زر عرض التفاصيل"
+  },
+  "apptBookAppointment": "حجز موعد جديد",
+  "@apptBookAppointment": {
+    "description": "عنوان شاشة الحجز"
+  },
+  "apptCancelAppointment": "إلغاء الموعد",
+  "@apptCancelAppointment": {
+    "description": "عنوان حوار الإلغاء"
+  },
+  "apptCancelConfirm": "هل أنت متأكد من رغبتك في إلغاء هذا الموعد؟",
+  "@apptCancelConfirm": {
+    "description": "رسالة تأكيد الإلغاء"
+  },
+  "apptCancelReason": "سبب الإلغاء (اختياري)",
+  "@apptCancelReason": {
+    "description": "حقل سبب الإلغاء"
+  },
+  "apptCancelReasonHint": "مثال: تغير في الخطط",
+  "@apptCancelReasonHint": {
+    "description": "نص توضيحي لسبب الإلغاء"
+  },
+  "apptBack": "رجوع",
+  "@apptBack": {
+    "description": "زر الرجوع"
+  },
+  "apptConfirmCancel": "تأكيد الإلغاء",
+  "@apptConfirmCancel": {
+    "description": "زر تأكيد الإلغاء"
+  },
+  "apptCannotCancel": "لا يمكن إلغاء الموعد قبل أقل من 24 ساعة",
+  "@apptCannotCancel": {
+    "description": "رسالة عدم إمكانية الإلغاء"
+  },
+  "apptNoAppointments": "لا توجد مواعيد",
+  "@apptNoAppointments": {
+    "description": "رسالة عدم وجود مواعيد"
+  },
+  "apptNoUpcoming": "لا توجد مواعيد قادمة",
+  "@apptNoUpcoming": {
+    "description": "رسالة عدم وجود مواعيد قادمة"
+  },
+  "apptNoPast": "لا توجد مواعيد سابقة",
+  "@apptNoPast": {
+    "description": "رسالة عدم وجود مواعيد سابقة"
+  },
+  "apptNoCancelled": "لا توجد مواعيد ملغاة",
+  "@apptNoCancelled": {
+    "description": "رسالة عدم وجود مواعيد ملغاة"
+  },
+  "apptUnauthorized": "غير مصرح - يرجى تسجيل الدخول",
+  "@apptUnauthorized": {
+    "description": "رسالة عدم التصريح"
+  },
+  "deptDepartments": "التخصصات",
+  "@deptDepartments": {
+    "description": "عنوان شاشة التخصصات"
+  },
+  "deptNoDepartments": "لا توجد تخصصات متاحة",
+  "@deptNoDepartments": {
+    "description": "رسالة عدم وجود تخصصات"
+  },
+  "deptDoctors": "الأطباء",
+  "@deptDoctors": {
+    "description": "عنوان قسم الأطباء"
+  },
+  "deptServices": "الخدمات",
+  "@deptServices": {
+    "description": "عنوان قسم الخدمات"
+  },
+  "deptWorkingHours": "ساعات العمل",
+  "@deptWorkingHours": {
+    "description": "عنوان ساعات العمل"
+  },
+  "deptSearchHint": "ابحث عن تخصص طبي...",
+  "@deptSearchHint": {
+    "description": "نص البحث في التخصصات"
+  },
+  "deptResultsCount": "{count} نتيجة",
+  "@deptResultsCount": {
+    "description": "عدد نتائج البحث",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "deptLoading": "جاري تحميل التخصصات...",
+  "@deptLoading": {
+    "description": "رسالة تحميل التخصصات"
+  },
+  "deptLoadError": "حدث خطأ في تحميل التخصصات",
+  "@deptLoadError": {
+    "description": "رسالة خطأ تحميل التخصصات"
+  },
+  "deptTryAgain": "يرجى المحاولة مرة أخرى",
+  "@deptTryAgain": {
+    "description": "نص إعادة المحاولة"
+  },
+  "deptNoResults": "لا توجد نتائج للبحث",
+  "@deptNoResults": {
+    "description": "لا توجد نتائج للبحث"
+  },
+  "deptTryOtherWords": "جرب البحث بكلمات أخرى",
+  "@deptTryOtherWords": {
+    "description": "جرب البحث بكلمات أخرى"
+  },
+  "deptLocationNotAvailable": "الموقع غير متوفر",
+  "@deptLocationNotAvailable": {
+    "description": "الموقع غير متوفر"
+  },
+  "deptWillBeAddedSoon": "سيتم إضافة التخصصات قريباً",
+  "@deptWillBeAddedSoon": {
+    "description": "سيتم إضافة التخصصات قريباً"
+  },
+  "deptNoServices": "لا توجد خدمات متاحة حالياً",
+  "@deptNoServices": {
+    "description": "رسالة عدم وجود خدمات"
+  },
+  "docDoctors": "الأطباء",
+  "@docDoctors": {
+    "description": "عنوان شاشة الأطباء"
+  },
+  "docNoDoctors": "لا يوجد أطباء متاحون",
+  "@docNoDoctors": {
+    "description": "رسالة عدم وجود أطباء"
+  },
+  "docSpecialization": "التخصص",
+  "@docSpecialization": {
+    "description": "التخصص"
+  },
+  "docExperience": "سنوات الخبرة",
+  "@docExperience": {
+    "description": "سنوات الخبرة"
+  },
+  "docRating": "التقييم",
+  "@docRating": {
+    "description": "التقييم"
+  },
+  "docBook": "حجز موعد",
+  "@docBook": {
+    "description": "زر الحجز"
+  },
+  "docYearsExperience": "{years} سنوات خبرة",
+  "@docYearsExperience": {
+    "description": "سنوات الخبرة للطبيب",
+    "placeholders": {
+      "years": {
+        "type": "int"
+      }
+    }
+  },
+  "docSpecialist": "طبيب متخصص",
+  "@docSpecialist": {
+    "description": "نص افتراضي للطبيب"
+  },
+  "docSearchHint": "ابحث عن طبيب...",
+  "@docSearchHint": {
+    "description": "نص البحث في الأطباء"
+  },
+  "docLoading": "جاري تحميل الأطباء...",
+  "@docLoading": {
+    "description": "رسالة تحميل الأطباء"
+  },
+  "docLoadError": "حدث خطأ في تحميل الأطباء",
+  "@docLoadError": {
+    "description": "رسالة خطأ تحميل الأطباء"
+  },
+  "docTryOtherWords": "جرب البحث بكلمات أخرى أو مسح البحث",
+  "@docTryOtherWords": {
+    "description": "رسالة محاولة البحث بكلمات أخرى"
+  },
+  "docWillBeAddedSoon": "سيتم إضافة الأطباء قريباً",
+  "@docWillBeAddedSoon": {
+    "description": "رسالة سيتم إضافة الأطباء قريباً"
+  },
+  "docClearSearch": "مسح البحث",
+  "@docClearSearch": {
+    "description": "زر مسح البحث"
+  },
+  "docResultsCount": "{count} نتيجة",
+  "@docResultsCount": {
+    "description": "عدد نتائج البحث",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "profProfile": "الملف الشخصي",
+  "@profProfile": {
+    "description": "عنوان الملف الشخصي"
+  },
+  "profEditProfile": "تعديل الملف الشخصي",
+  "@profEditProfile": {
+    "description": "تعديل الملف الشخصي"
+  },
+  "profMedicalRecords": "السجلات الطبية",
+  "@profMedicalRecords": {
+    "description": "السجلات الطبية"
+  },
+  "profPayments": "المدفوعات",
+  "@profPayments": {
+    "description": "المدفوعات"
+  },
+  "profSettings": "الإعدادات",
+  "@profSettings": {
+    "description": "الإعدادات"
+  },
+  "profHelpSupport": "المساعدة والدعم",
+  "@profHelpSupport": {
+    "description": "المساعدة والدعم"
+  },
+  "profLanguage": "اللغة",
+  "@profLanguage": {
+    "description": "اللغة"
+  },
+  "profArabic": "العربية",
+  "@profArabic": {
+    "description": "العربية"
+  },
+  "profEnglish": "English",
+  "@profEnglish": {
+    "description": "الإنجليزية"
+  },
+  "profComingSoon": "سيتم تطوير هذه الميزة قريباً",
+  "@profComingSoon": {
+    "description": "رسالة قريباً"
+  },
+  "profPersonalSettings": "الإعدادات الشخصية",
+  "@profPersonalSettings": {
+    "description": "عنوان قسم الإعدادات الشخصية"
+  },
+  "profGeneralSettings": "الإعدادات العامة",
+  "@profGeneralSettings": {
+    "description": "عنوان قسم الإعدادات العامة"
+  },
+  "profAccount": "الحساب",
+  "@profAccount": {
+    "description": "عنوان قسم الحساب"
+  },
+  "profDataUpdated": "تم تحديث البيانات بنجاح",
+  "@profDataUpdated": {
+    "description": "رسالة نجاح تحديث البيانات"
+  },
+  "profSessionExpired": "انتهت صلاحية الجلسة. يرجى تسجيل الدخول مرة أخرى",
+  "@profSessionExpired": {
+    "description": "رسالة انتهاء صلاحية الجلسة"
+  },
+  "profUnauthorized": "غير مصرح - يرجى تسجيل الدخول",
+  "@profUnauthorized": {
+    "description": "رسالة عدم التصريح"
+  },
+  "profConnectionError": "لا يمكن الاتصال بالخادم. تحقق من اتصالك بالإنترنت",
+  "@profConnectionError": {
+    "description": "رسالة خطأ في الاتصال"
+  },
+  "profNoUserData": "لا توجد بيانات للمستخدم",
+  "@profNoUserData": {
+    "description": "رسالة عدم وجود بيانات للمستخدم"
+  },
+  "profPatient": "مريض",
+  "@profPatient": {
+    "description": "دور المريض"
+  },
+  "profAppointments": "المواعيد",
+  "@profAppointments": {
+    "description": "المواعيد في الإحصائيات"
+  },
+  "profSessions": "الجلسات",
+  "@profSessions": {
+    "description": "الجلسات في الإحصائيات"
+  },
+  "profLogoutConfirm": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+  "@profLogoutConfirm": {
+    "description": "رسالة تأكيد تسجيل الخروج"
+  },
+  "profImagePickFailed": "فشل اختيار الصورة",
+  "@profImagePickFailed": {
+    "description": "رسالة خطأ في اختيار الصورة"
+  },
+  "profProfileUpdated": "تم تحديث الملف الشخصي بنجاح",
+  "@profProfileUpdated": {
+    "description": "رسالة نجاح تحديث الملف الشخصي"
+  },
+  "profUpdateFailed": "فشل تحديث البيانات",
+  "@profUpdateFailed": {
+    "description": "رسالة خطأ في تحديث البيانات"
+  },
+  "profPhoneAlreadyUsed": "رقم الهاتف مستخدم بالفعل",
+  "@profPhoneAlreadyUsed": {
+    "description": "رسالة خطأ رقم الهاتف مكرر"
+  },
+  "profEnterName": "يرجى إدخال الاسم",
+  "@profEnterName": {
+    "description": "رسالة خطأ إدخال الاسم"
+  },
+  "profEnterPhone": "يرجى إدخال رقم الهاتف",
+  "@profEnterPhone": {
+    "description": "رسالة خطأ إدخال رقم الهاتف"
+  },
+  "profSaveChanges": "حفظ التغييرات",
+  "@profSaveChanges": {
+    "description": "زر حفظ التغييرات"
+  },
+  "drDashboard": "لوحة التحكم",
+  "@drDashboard": {
+    "description": "لوحة تحكم الطبيب"
+  },
+  "drAppointments": "المواعيد",
+  "@drAppointments": {
+    "description": "مواعيد الطبيب"
+  },
+  "drSchedule": "الجدول",
+  "@drSchedule": {
+    "description": "جدول الطبيب"
+  },
+  "drServices": "الخدمات",
+  "@drServices": {
+    "description": "خدمات الطبيب"
+  },
+  "drReject": "رفض",
+  "@drReject": {
+    "description": "رفض الموعد"
+  },
+  "drAccept": "قبول",
+  "@drAccept": {
+    "description": "قبول الموعد"
+  },
+  "drRejectReason": "سبب الرفض",
+  "@drRejectReason": {
+    "description": "سبب الرفض"
+  },
+  "drEnterReason": "أدخل السبب",
+  "@drEnterReason": {
+    "description": "نص توضيحي لسبب الرفض"
+  },
+  "drCancel": "إلغاء",
+  "@drCancel": {
+    "description": "إلغاء"
+  },
+  "drSave": "حفظ",
+  "@drSave": {
+    "description": "حفظ"
+  },
+  "drCreateRecord": "إنشاء سجل طبي",
+  "@drCreateRecord": {
+    "description": "إنشاء سجل طبي"
+  },
+  "commonLoading": "جاري التحميل...",
+  "@commonLoading": {
+    "description": "رسالة التحميل"
+  },
+  "commonError": "حدث خطأ",
+  "@commonError": {
+    "description": "رسالة خطأ عامة"
+  },
+  "commonRetry": "إعادة المحاولة",
+  "@commonRetry": {
+    "description": "زر إعادة المحاولة"
+  },
+  "commonOk": "موافق",
+  "@commonOk": {
+    "description": "زر موافق"
+  },
+  "commonYes": "نعم",
+  "@commonYes": {
+    "description": "نعم"
+  },
+  "commonNo": "لا",
+  "@commonNo": {
+    "description": "لا"
+  },
+  "apptDetailsTitle": "تفاصيل الموعد",
+  "@apptDetailsTitle": {
+    "description": "عنوان شاشة تفاصيل الموعد"
+  },
+  "apptDetailsStatus": "حالة الموعد",
+  "@apptDetailsStatus": {
+    "description": "حالة الموعد"
+  },
+  "apptDetailsDoctor": "الطبيب",
+  "@apptDetailsDoctor": {
+    "description": "الطبيب"
+  },
+  "apptDetailsService": "الخدمة",
+  "@apptDetailsService": {
+    "description": "الخدمة"
+  },
+  "apptDetailsDateTime": "التاريخ والوقت",
+  "@apptDetailsDateTime": {
+    "description": "التاريخ والوقت"
+  },
+  "apptDetailsDuration": "المدة",
+  "@apptDetailsDuration": {
+    "description": "المدة"
+  },
+  "apptDetailsType": "النوع",
+  "@apptDetailsType": {
+    "description": "النوع"
+  },
+  "apptDetailsPrice": "السعر",
+  "@apptDetailsPrice": {
+    "description": "السعر"
+  },
+  "apptDetailsPayment": "الدفع",
+  "@apptDetailsPayment": {
+    "description": "الدفع"
+  },
+  "apptTypeInPerson": "حضور شخصي",
+  "@apptTypeInPerson": {
+    "description": "نوع الموعد - حضور شخصي"
+  },
+  "apptTypeVideo": "مكالمة فيديو",
+  "@apptTypeVideo": {
+    "description": "نوع الموعد - مكالمة فيديو"
+  },
+  "apptTypeChat": "محادثة نصية",
+  "@apptTypeChat": {
+    "description": "نوع الموعد - محادثة نصية"
+  },
+  "apptStatusNoShow": "لم يحضر",
+  "@apptStatusNoShow": {
+    "description": "حالة الموعد - لم يحضر"
+  },
+  "apptStatusRejected": "مرفوض",
+  "@apptStatusRejected": {
+    "description": "حالة الموعد - مرفوض"
+  },
+  "apptTimeRemaining": "متبقي",
+  "@apptTimeRemaining": {
+    "description": "الوقت المتبقي"
+  },
+  "apptTimeOngoing": "جاري",
+  "@apptTimeOngoing": {
+    "description": "الوقت جاري"
+  },
+  "apptTimeFinished": "انتهى",
+  "@apptTimeFinished": {
+    "description": "انتهى الوقت"
+  },
+  "apptMorning": "صباحاً",
+  "@apptMorning": {
+    "description": "صباحاً"
+  },
+  "apptEvening": "مساءً",
+  "@apptEvening": {
+    "description": "مساءً"
+  },
+  "apptUnauthorizedDoctor": "غير مصرح - يجب أن تكون طبيباً",
+  "@apptUnauthorizedDoctor": {
+    "description": "غير مصرح للطبيب"
+  },
+  "apptOnlyCompleted": "يمكن إنشاء السجل الطبي فقط للمواعيد المكتملة",
+  "@apptOnlyCompleted": {
+    "description": "يمكن إنشاء السجل فقط للمواعيد المكتملة"
+  },
+  "apptRecordCreated": "تم إنشاء السجل الطبي بنجاح",
+  "@apptRecordCreated": {
+    "description": "تم إنشاء السجل الطبي"
+  },
+  "apptSelectDoctorFirst": "يرجى اختيار الطبيب أولاً",
+  "@apptSelectDoctorFirst": {
+    "description": "رسالة اختيار الطبيب أولاً"
+  },
+  "apptSelectServiceFirst": "يرجى اختيار الخدمة أولاً",
+  "@apptSelectServiceFirst": {
+    "description": "رسالة اختيار الخدمة أولاً"
+  },
+  "apptSelectDateAndSlot": "يرجى اختيار التاريخ وفتحة زمنية متاحة",
+  "@apptSelectDateAndSlot": {
+    "description": "رسالة اختيار التاريخ والوقت"
+  },
+  "apptSelectFutureTime": "يرجى اختيار وقت في المستقبل",
+  "@apptSelectFutureTime": {
+    "description": "رسالة اختيار وقت في المستقبل"
+  },
+  "apptBookSuccess": "تم حجز الموعد بنجاح",
+  "@apptBookSuccess": {
+    "description": "رسالة نجاح الحجز"
+  },
+  "apptBookConfirmSuccess": "تم حجز وتأكيد الموعد بنجاح ✓",
+  "@apptBookConfirmSuccess": {
+    "description": "رسالة نجاح الحجز والتأكيد"
+  },
+  "apptBookPendingConfirm": "تم حجز الموعد بنجاح. سيتم تأكيده من قبل الطبيب.",
+  "@apptBookPendingConfirm": {
+    "description": "رسالة الحجز في انتظار التأكيد"
+  },
+  "apptTypeTitle": "نوع الموعد",
+  "@apptTypeTitle": {
+    "description": "عنوان نوع الموعد"
+  },
+  "apptDateTitle": "التاريخ",
+  "@apptDateTitle": {
+    "description": "عنوان التاريخ"
+  },
+  "apptSelectDate": "اختر التاريخ",
+  "@apptSelectDate": {
+    "description": "نص اختيار التاريخ"
+  },
+  "apptSelectDateHelp": "اختر تاريخ الموعد",
+  "@apptSelectDateHelp": {
+    "description": "نص مساعد لاختيار التاريخ"
+  },
+  "apptSelectTimeTitle": "اختر وقتاً من الفتحات المتاحة",
+  "@apptSelectTimeTitle": {
+    "description": "عنوان اختيار الوقت"
+  },
+  "apptNoSlotsAvailable": "لا توجد فتحات متاحة في هذا اليوم. الرجاء اختيار تاريخ آخر.",
+  "@apptNoSlotsAvailable": {
+    "description": "رسالة عدم وجود فتحات متاحة"
+  },
+  "apptSelectDoctorWarning": "يرجى اختيار الطبيب أولاً قبل الحجز",
+  "@apptSelectDoctorWarning": {
+    "description": "تحذير اختيار الطبيب"
+  },
+  "apptSelectDoctor": "اختر طبيب",
+  "@apptSelectDoctor": {
+    "description": "زر اختيار الطبيب"
+  },
+  "apptDoctor": "الطبيب",
+  "@apptDoctor": {
+    "description": "نص الطبيب"
+  },
+  "apptDoctorNotSelected": "طبيب غير محدد",
+  "@apptDoctorNotSelected": {
+    "description": "نص طبيب غير محدد"
+  },
+  "apptChangeDoctor": "تغيير الطبيب",
+  "@apptChangeDoctor": {
+    "description": "زر تغيير الطبيب"
+  },
+  "apptServiceSpecialty": "الخدمة / التخصص",
+  "@apptServiceSpecialty": {
+    "description": "نص الخدمة/التخصص"
+  },
+  "apptBooking": "جاري الحجز...",
+  "@apptBooking": {
+    "description": "رسالة جاري الحجز"
+  },
+  "apptBookingConfirming": "جاري الحجز والتأكيد...",
+  "@apptBookingConfirming": {
+    "description": "رسالة جاري الحجز والتأكيد"
+  },
+  "apptSelectAvailableTime": "اختر وقتاً متاحاً",
+  "@apptSelectAvailableTime": {
+    "description": "رسالة اختيار وقت متاح"
+  },
+  "apptBookAppointment": "حجز الموعد",
+  "@apptBookAppointment": {
+    "description": "زر حجز الموعد"
+  },
+  "apptBookConfirmedTest": "حجز مؤكد للاختبار ✓",
+  "@apptBookConfirmedTest": {
+    "description": "زر حجز مؤكد للاختبار"
+  },
+  "apptTestModeDoctor": "وضع الاختبار: حجز مؤكد مباشرة (كطبيب)",
+  "@apptTestModeDoctor": {
+    "description": "رسالة وضع الاختبار للطبيب"
+  },
+  "apptTestModePatient": "وضع الاختبار: الحجز سيحتاج تأكيد من الطبيب",
+  "@apptTestModePatient": {
+    "description": "رسالة وضع الاختبار للمريض"
+  },
+  "apptMinimumMinutes": "يرجى اختيار وقت بعد {minutes} دقائق على الأقل من الآن",
+  "@apptMinimumMinutes": {
+    "description": "رسالة الحد الأدنى من الدقائق",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "apptError": "خطأ: {error}",
+  "@apptError": {
+    "description": "رسالة خطأ",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "apptBookSuccessDoctorLogin": "⚠️ تم الحجز بنجاح. يرجى تسجيل الدخول كطبيب لتأكيد الموعد تلقائياً، أو سيتم تأكيده يدوياً من قبل الطبيب.",
+  "@apptBookSuccessDoctorLogin": {
+    "description": "رسالة نجاح الحجز مع طلب تسجيل الدخول كطبيب"
+  },
+  "apptBookSuccessConfirmFailed": "تم الحجز بنجاح، لكن فشل التأكيد التلقائي: {error}",
+  "@apptBookSuccessConfirmFailed": {
+    "description": "رسالة نجاح الحجز مع فشل التأكيد",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "supportTitle": "المساعدة والدعم",
+  "supportNewTicket": "تذكرة جديدة",
+  "supportNoTickets": "لا توجد تذاكر دعم حالياً",
+  "supportCreateTitle": "إنشاء تذكرة جديدة",
+  "supportCategory": "الفئة",
+  "supportSubject": "الموضوع",
+  "supportDescription": "الوصف",
+  "supportSubjectRequired": "يرجى إدخال الموضوع",
+  "supportDescriptionRequired": "يرجى إدخال الوصف",
+  "supportSend": "إرسال التذكرة",
+  "supportCreateSuccess": "تم إنشاء التذكرة بنجاح",
+  "supportDetails": "تفاصيل التذكرة",
+  "supportOriginalTicket": "التذكرة الأصلية",
+  "supportReplyHint": "اكتب ردك هنا...",
+  "supportStatusOpen": "مفتوحة",
+  "supportStatusInProgress": "قيد التنفيذ",
+  "supportStatusResolved": "تم الحل",
+  "supportStatusClosed": "مغلقة",
+  "supportCatTechnical": "مشكلة تقنية",
+  "supportCatBilling": "مشكلة في الدفع",
+  "supportCatMedical": "استفسار طبي",
+  "supportCatOther": "أخرى",
+  "apptPaymentRequired": "يرجى إكمال الدفع لتأكيد الحجز",
+  "@apptPaymentRequired": {
+    "description": "رسالة تنبيه بضرورة الدفع لإتمام الحجز"
+  },
+  "paymentTitle": "الدفع",
+  "@paymentTitle": {
+    "description": "عنوان شاشة الدفع"
+  },
+  "paymentRequired": "الدفع مطلوب لتأكيد الحجز",
+  "@paymentRequired": {
+    "description": "رسالة توضيح أن الدفع مطلوب"
+  },
+  "paymentCompleteToConfirm": "أكمل الدفع لتأكيد حجزك",
+  "@paymentCompleteToConfirm": {
+    "description": "رسالة إكمال الدفع"
+  },
+  "paymentDetails": "تفاصيل الدفع",
+  "@paymentDetails": {
+    "description": "عنوان تفاصيل الدفع"
+  },
+  "paymentAmount": "المبلغ",
+  "@paymentAmount": {
+    "description": "المبلغ"
+  },
+  "paymentStatus": "حالة الدفع",
+  "@paymentStatus": {
+    "description": "حالة الدفع"
+  },
+  "paymentStatusPending": "في انتظار الدفع",
+  "@paymentStatusPending": {
+    "description": "حالة الدفع - قيد الانتظار"
+  },
+  "paymentStatusCompleted": "تم الدفع",
+  "@paymentStatusCompleted": {
+    "description": "حالة الدفع - مكتمل"
+  },
+  "paymentStatusFailed": "فشل الدفع",
+  "@paymentStatusFailed": {
+    "description": "حالة الدفع - فشل"
+  },
+  "paymentPayNow": "ادفع الآن",
+  "@paymentPayNow": {
+    "description": "زر الدفع الآن"
+  },
+  "paymentProcessing": "جاري معالجة الدفع...",
+  "@paymentProcessing": {
+    "description": "رسالة جاري المعالجة"
+  },
+  "paymentSuccess": "تم الدفع بنجاح! تم تأكيد حجزك",
+  "@paymentSuccess": {
+    "description": "رسالة نجاح الدفع"
+  },
+  "paymentCancelled": "تم إلغاء عملية الدفع",
+  "@paymentCancelled": {
+    "description": "رسالة إلغاء الدفع"
+  },
+  "paymentError": "فشلت عملية الدفع. يرجى المحاولة مرة أخرى",
+  "@paymentError": {
+    "description": "رسالة خطأ الدفع"
+  },
+  "paymentReservationExpiry": "ملاحظة: سينتهي الحجز إذا لم يتم الدفع خلال 15 دقيقة",
+  "@paymentReservationExpiry": {
+    "description": "تحذير انتهاء الحجز"
+  },
+  "notificationsTitle": "الإشعارات",
+  "@notificationsTitle": {
+    "description": "عنوان صفحة الإشعارات"
+  },
+  "notificationsEmpty": "لا توجد إشعارات",
+  "@notificationsEmpty": {
+    "description": "رسالة عندما لا توجد إشعارات"
+  },
+  "notificationsEmptyDescription": "ستظهر إشعاراتك هنا",
+  "@notificationsEmptyDescription": {
+    "description": "وصف رسالة عدم وجود إشعارات"
+  },
+  "notificationsMarkAllRead": "تعيين الكل كمقروء",
+  "@notificationsMarkAllRead": {
+    "description": "زر تعيين جميع الإشعارات كمقروءة"
+  },
+  "notificationsClearAll": "مسح الكل",
+  "@notificationsClearAll": {
+    "description": "زر مسح جميع الإشعارات"
+  },
+  "notificationsDelete": "حذف",
+  "@notificationsDelete": {
+    "description": "زر حذف إشعار"
+  },
+  "notificationsJustNow": "الآن",
+  "@notificationsJustNow": {
+    "description": "توقيت الإشعار - الآن"
+  },
+  "notificationsMinutesAgo": "منذ {count} دقيقة",
+  "@notificationsMinutesAgo": {
+    "description": "توقيت الإشعار - منذ دقائق",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationsHoursAgo": "منذ {count} ساعة",
+  "@notificationsHoursAgo": {
+    "description": "توقيت الإشعار - منذ ساعات",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationsDaysAgo": "منذ {count} يوم",
+  "@notificationsDaysAgo": {
+    "description": "توقيت الإشعار - منذ أيام",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}
