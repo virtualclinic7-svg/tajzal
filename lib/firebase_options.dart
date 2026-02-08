@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBsZS_TsGvqnFfRb310I6UquhEqwdFl11E',
-    appId: '1:927142922437:android:10a4023669fab6189188ac',
+    appId: '1:927142922437:android:db9fd23a8dd38c689188ac',
     messagingSenderId: '927142922437',
     projectId: 'virclinic-fcf3e',
     storageBucket: 'virclinic-fcf3e.firebasestorage.app',
@@ -60,29 +60,30 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAajNBJ_FV2ptPZDeMe8C3XD0OSfu4a-xQ',
-    appId: '1:927142922437:ios:99056340f63363379188ac',
+    appId: '1:927142922437:ios:113d86455318684b9188ac',
     messagingSenderId: '927142922437',
     projectId: 'virclinic-fcf3e',
     storageBucket: 'virclinic-fcf3e.firebasestorage.app',
-    iosBundleId: 'com.example.patienApp',
+    iosBundleId: 'com.tajazal.patient',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAajNBJ_FV2ptPZDeMe8C3XD0OSfu4a-xQ',
-    appId: '1:927142922437:ios:99056340f63363379188ac',
+    appId: '1:927142922437:ios:5bf6f7cc0f8249279188ac',
     messagingSenderId: '927142922437',
     projectId: 'virclinic-fcf3e',
     storageBucket: 'virclinic-fcf3e.firebasestorage.app',
-    iosBundleId: 'com.example.patienApp',
+    iosBundleId: 'com.example.newapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyByqm0UkZuMZSWAm6grfIwvgusyVJ6fMY0',
-    appId: '1:927142922437:web:e9d98306ddf5c93c9188ac',
+    apiKey: 'AIzaSyBG83ew6HebWXCa4yC5Y9omKO7dg96qd0w',
+    appId: '1:927142922437:web:3b9f98b74540fd9d9188ac',
     messagingSenderId: '927142922437',
     projectId: 'virclinic-fcf3e',
     authDomain: 'virclinic-fcf3e.firebaseapp.com',
     storageBucket: 'virclinic-fcf3e.firebasestorage.app',
-    measurementId: 'G-RSRMZBD9J8',
+    measurementId: 'G-KTEJWBYGRQ',
   );
+
 }
